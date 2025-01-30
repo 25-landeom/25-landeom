@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning Coding.
 - 💞️ I’m looking to collaborate on open source project to develop software application.
 - 📫 How to reach me:
-- Email:-omglande2507@gmail.com 
-- 😄 Pronouns: 
-- ⚡ Fun fact:
+    Email:-omglande2507@gmail.com 
+- 😄 Pronouns: He/Him
+-Language: Python, Java,PHP
